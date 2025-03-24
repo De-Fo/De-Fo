@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 whoami:
 🔭 I’m currently working on Solana Wallet Finder<br>🌱 I’m currently learning TypeScript<br>⚡ I've been in Web-Development for 2 years
 
 
