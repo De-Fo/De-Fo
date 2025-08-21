@@ -1,5 +1,5 @@
 # 💫 whoami:
-🔭 I’m currently working on https://m3n.sk<br>🌱 I’m currently learning TypeScript<br>⚡ I've been in Web-Development for 2 years
+🔭 I’m currently working on https://m3n.sk<br>🌱 Always learning<br>⚡ I've been in Web-Development for 2 years
 
 
 ## 🌐 Socials:
