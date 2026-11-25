@@ -1,5 +1,5 @@
 # 💫 whoami:
-🔭 I’m currently working on https://m3n.sk and custom projects<br>🌱 Always learning<br>⚡ I've been in Web-Development for 5 years
+🔭 I’m currently working on https://norkuj.cz and custom projects<br>🌱 Always learning<br>⚡ I've been in Web-Development for 5 years
 
 
 ## 🌐 Socials:
